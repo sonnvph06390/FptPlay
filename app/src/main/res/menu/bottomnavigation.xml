@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Trang chủ" />
+    <item
+        android:id="@+id/navigation_film"
+        android:icon="@drawable/ic_tv"
+        android:title="Phim truyện" />
+    <item
+        android:id="@+id/navigation_tv"
+        android:icon="@drawable/ic_tv"
+        android:title="Truyền hình" />
+    <item
+        android:id="@+id/navigation_hbo"
+        android:icon="@drawable/icfile"
+        android:title="HBO GO" />
+    <item
+        android:id="@+id/navigation_more"
+        android:icon="@drawable/ic_more"
+        android:title="Thêm" />
+
+</menu>
